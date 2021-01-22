@@ -3,9 +3,9 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        gan: 3
+        generative: 3
+        classification: 1
 
 # 通知の閾値
 score_threshold: 0
