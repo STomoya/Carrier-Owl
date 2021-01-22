@@ -5,7 +5,6 @@ subject: 'cat:cs.*'
 keywords:
         gan: 3
         generative: 3
-        classification: 1
 
 # 通知の閾値
 score_threshold: 0
